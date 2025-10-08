@@ -31,6 +31,7 @@
 python -m venv .venv
 . .\.venv\Scripts\Activate.ps1
 
+
 #######################################
 # Criar o requirements.txt com django #
 #######################################
